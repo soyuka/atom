@@ -5,6 +5,7 @@ Ubuntu LTS 12.04 64-bit is the recommended platform.
 ## Requirements
 
   * OS with 64-bit or 32-bit architecture
+  * g++ compiler
   * [node.js](http://nodejs.org/download/) v0.10.x
   * [npm](http://www.npmjs.org/) v1.4.x  
   * libgnome-keyring-dev
